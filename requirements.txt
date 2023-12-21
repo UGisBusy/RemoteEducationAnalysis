@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 ipykernel
 Jinja2
+category_encoders
